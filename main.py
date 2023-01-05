@@ -1,1 +1,4 @@
 print("Ahoj")
+
+print("čaudy")
+
